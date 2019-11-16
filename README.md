@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # second-hello README
 
 This is the README for your extension "second-hello". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,10 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# This is an H1 header
+##### This is an H4 header
+- Item 1
+- Item 2
+- Item 3
+>>>>>>> ba18f4c71d7551d1001158456d1b89181e249c41
